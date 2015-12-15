@@ -1,9 +1,23 @@
+<<<<<<< HEAD
+=======
 Dear Diary (I LOVE YOU BTW),
+>>>>>>> 11914dc981f2c66783c0fa699296eaa887bcb96f
 
+<<<<<<< HEAD
 ****DAN WAS HERE****
 
 Yesterday was the first day back to school for me.  
 It's been a long time since I've worked my brain as hard, not that I've been doing nothing for the past seven years of my life, just nothing that challenged me as much.  
+=======
+
+
+
+
+Yestrday waz da firs dae bac 2 skoo fo me.  
+Is be a long o'l tiame since I work my brain out, not that I be doin nothin fo da pass 7 yea's a my life, iss juss nothin dat challenges me as much.  
+
+Something something something. 
+>>>>>>> e7c14210d91bdeb8f9b8f04352877ad86f348d03
 
 In perspective this was a very much appreciated moment, to be in a environment that will challenge everything that you know, and potentially change how you view things.
 
@@ -41,15 +55,32 @@ Here's to step one of becoming a better person.
 
 Here's to a new exciting career in developing.
 
+<<<<<<< HEAD
+Developers Rule!!
+=======
 Developers Rule!!
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> e7c14210d91bdeb8f9b8f04352877ad86f348d03
 To be continued...
 
 So I was just kidding about everything in this story.  In fact the future is near and I'm so very scared!
 
+<<<<<<< HEAD
 What do I do now!!!!
 =======
 To be continued... (Duh duh DAAAAA!!!)
 >>>>>>> 11914dc981f2c66783c0fa699296eaa887bcb96f
 
+=======
+What do I do now!!!!
+=======
+>>>>>>> 38c966121c690bf74adcb1806dd7bb28a06c33bc
+To be continued... (Duh duh DAAAAA!!!)
+>>>>>>> 11914dc981f2c66783c0fa699296eaa887bcb96f
+>>>>>>> e7c14210d91bdeb8f9b8f04352877ad86f348d03
