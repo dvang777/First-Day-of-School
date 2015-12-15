@@ -1,4 +1,4 @@
-Dear Diary,
+Dear Diary (I LOVE YOU BTW),
 
 Yesterday was the first day back to school for me.  
 It's been a long time since I've worked my brain as hard, not that I've been doing nothing for the past seven years of my life, just nothing that challenged me as much.  
@@ -41,8 +41,12 @@ Here's to a new exciting career in developing.
 
 Developers Rule!!
 
+<<<<<<< HEAD
 To be continued...
 
 So I was just kidding about everything in this story.  In fact the future is near and I'm so very scared!
 
 What do I do now!!!!
+=======
+To be continued... (Duh duh DAAAAA!!!)
+>>>>>>> 11914dc981f2c66783c0fa699296eaa887bcb96f
