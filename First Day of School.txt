@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+Dear Diary (I LOVE YOU BTW),
+>>>>>>> 11914dc981f2c66783c0fa699296eaa887bcb96f
 
 
 
@@ -44,4 +48,10 @@ Here's to step one of becoming a better person.
 
 Here's to a new exciting career in developing.
 
+<<<<<<< HEAD
 Developers Rule!!
+=======
+Developers Rule!!
+
+To be continued... (Duh duh DAAAAA!!!)
+>>>>>>> 11914dc981f2c66783c0fa699296eaa887bcb96f
