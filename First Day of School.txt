@@ -44,7 +44,13 @@ Developers Rule!!
 <<<<<<< HEAD
 To be continued...
 
+<<<<<<< HEAD
 P.S.  Star Wars VII in a couple of days...
+=======
+So I was just kidding about everything in this story.  In fact the future is near and I'm so very scared!
+
+What do I do now!!!!
+>>>>>>> 38c966121c690bf74adcb1806dd7bb28a06c33bc
 =======
 To be continued... (Duh duh DAAAAA!!!)
 >>>>>>> 11914dc981f2c66783c0fa699296eaa887bcb96f
